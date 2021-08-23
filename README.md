@@ -24,8 +24,8 @@
 ---
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeoq&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoq&count_private=true&hide=html,css&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeoq&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoq&hide=html,css&theme=tokyonight">
 </p>
 
 ### Let's Keep in Touch and Follow me
