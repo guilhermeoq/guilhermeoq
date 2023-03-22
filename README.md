@@ -5,7 +5,7 @@
 I'm a Tech Enthusiast passionate about learning and working with new tech. I like challenges and building interesting and amazing products that serve a great purpose. 
 I'm BS in Computer Science from Federal University of Goiás - [@UFG](https://ufg.br/), Brazil.
 
-- 🌱 I’m currently focused on advanced AWS topics, ML and full-stack development.
+- 🌱 I’m currently focused on advanced AWS topics, ML and back-end development.
 - 📫 Reach out for help with AWS, Networking & Security and on-premises infrastructure topics.
 - 👯 I'm looking to collaborate on open source solutions and publishing content to help people interested in technology careers.
 
