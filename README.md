@@ -29,7 +29,8 @@ I'm BS in Computer Science from Federal University of Goiás - [@UFG](https://uf
 <img src="https://img.shields.io/badge/AWS-%23F7DF1E?logo=amazonaws&logoColor=black&style=for-the-badge" height="25"/>
 </p>
 
-___
+#### 🧩Certs
+
 <a href="https://www.credly.com/badges/38905f45-0455-4866-9479-dc41209d00ca/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" title="AWS Educate Getting Started with Networking" style="width:5em"></a> 
 <a href="https://www.credly.com/badges/212c2ac1-d1f2-405b-a9c6-80f9efc72b39/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" title="AWS Educate Getting Started with Compute" style="width:5em"></a>
 <a href="https://www.credly.com/badges/00c0eae1-7fe7-4046-96fe-0bcc4b2c2c86/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" title="Cisco Cybersecurity Essentials" style="width:5em"></a> 
@@ -41,5 +42,4 @@ ___
 <p align="left">
 <a href="https://www.scopus.com/authid/detail.uri?authorId=55915654200" target="_blank"><img src="https://img.shields.io/badge/Scopus-orange.svg?&style=for-the-badge&logo=scopus&logoColor=white" height="25"</a> 
 <a href="http://www.webofscience.com/wos/author/record/F-5354-2014" target="_blank"><img src="https://img.shields.io/badge/Web of Science-gray.svg?&style=for-the-badge" height="25"</a>
-<a href="https://scholar.google.com/citations?user=R4gB7vYAAAAJ&hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-4285F4.svg?&style=for-the-badge&logo=googlescholar&logoColor=white" height="25"</a>   
 </p>
