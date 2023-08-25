@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" margin-left="20px" height="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFiZjRmZDhjNDJjZmI2YTdjYjJhOGNjN2ZkMTQ1OTM5MDU0MTJiOCZjdD1n/OwKBDykZ9PxRE6LhK7/giphy.gif" />
 
-I'm a brazilian Software Engineer with experience in software engineering as well as service management and operations. I developed research in computational physics at the Federal University of Goiás (UFG) and currently work at the Federal Institute of Education, Science & Technology of Tocantins (IFTO). I hold a BS in Computer Science by UFG.
+I'm a brazilian Software Engineer with experience in software engineering as well as service management and operations. I developed research in computational physics at the Federal University of Goiás (UFG) and currently work at the Federal Institute of Education, Science & Technology of Tocantins (IFTO). I hold a BS in Computer Science by UFG and an MBA in Big Data.
 
 #### 💻 Technologies & Tools
 
