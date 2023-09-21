@@ -10,11 +10,6 @@ Blog: <a href="https://gquintino.cc" target="_blank">blog.gquintino.cc</a>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <br>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Elastic%20Search-28b8b4?style=flat-square&logo=Elasticsearch" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<br>
 <img src="https://img.shields.io/badge/pfSense-darkblue?logo=pfsense&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/Cisco-blue?logo=cisco&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/VMware-%23F7DF1E?logo=vmware&logoColor=black&style=for-the-badge" height="25"/>
