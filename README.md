@@ -1,4 +1,4 @@
-## Links
+## 🔗 Links
 Personal Page: <a href="https://gquintino.cc" target="_blank">www.gquintino.cc</a><br>
 Blog: <a href="https://gquintino.cc" target="_blank">blog.gquintino.cc</a>
 <br>
