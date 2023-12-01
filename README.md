@@ -1,6 +1,5 @@
 ## 🔗 Links
-Personal Page: <a href="https://gquintino.cc" target="_blank">www.gquintino.cc</a><br>
-Blog: <a href="https://blog.gquintino.cc" target="_blank">blog.gquintino.cc</a>
+Personal Page: <a href="https://gquintino.cc" target="_blank">gquintino.cc</a><br>
 <br>
 
 ## 💻 Tech
