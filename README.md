@@ -1,7 +1,3 @@
-## 🔗 Links
-Personal Page: <a href="https://gquintino.cc" target="_blank">gquintino.cc</a><br>
-<br>
-
 ## 💻 Tech
 <p align="left">
 <img src="https://img.shields.io/badge/Python%20-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
