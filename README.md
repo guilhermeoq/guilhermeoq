@@ -2,7 +2,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Python%20-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <br>
 <img src="https://img.shields.io/badge/pfSense-darkblue?logo=pfsense&logoColor=white&style=for-the-badge" height="25"/>
