@@ -1,14 +1,32 @@
-## 💻 Tech
+## Hey! 👋
+
+I'm BSc in Computer Science, MBA in Big Data and AWS Certified Solutions Architect. I've experience in infrastructure architecture, cloud architecture, networking and service management (ITIL 4).
+I'm currently working at Court of Justice of the State of Tocantins, Palmas/TO, Brazil, focusing on networking design and operations.
+
+## 📄 Published Work
 <p align="left">
+<a href="https://www.scopus.com/authid/detail.uri?authorId=55915654200" target="_blank"><img src="https://img.shields.io/badge/Scopus-orange.svg?&style=for-the-badge&logo=scopus&logoColor=white" height="25"></a>
+<a href="http://www.webofscience.com/wos/author/record/F-5354-2014" target="_blank"><img src="https://img.shields.io/badge/Web of Science-gray.svg?&style=for-the-badge" height="25"></a>
+</p>
+
+
+## 💻 Technologies & Tools
+<p align="center">
 <img src="https://img.shields.io/badge/Python%20-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<br>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/pfSense-darkblue?logo=pfsense&logoColor=white&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/Cisco-blue?logo=cisco&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/VMware-%23F7DF1E?logo=vmware&logoColor=black&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/AWS-%23F7DF1E?logo=amazonaws&logoColor=black&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white&style=for-the-badge" height="25"/>
 </p>
 
 ## 🧩 Certs
@@ -21,7 +39,6 @@
 <a href="https://www.credly.com/badges/6a887882-7ec8-4cfa-83de-5e627b249031/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" title="Cisco CCNA, Introduction to Networks" style="width:4em"></a>
 <a href="https://www.credly.com/badges/18f71a76-20d3-4969-bb96-e77c9730a048/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" title="Cisco Networking Academy Learn-A-Thon 2022" style="width:4em"></a>
 
-## 📄 Published Work
-<p align="left">
-<a href="https://www.scopus.com/authid/detail.uri?authorId=55915654200" target="_blank"><img src="https://img.shields.io/badge/Scopus-orange.svg?&style=for-the-badge&logo=scopus&logoColor=white" height="25"</a>  <a href="http://www.webofscience.com/wos/author/record/F-5354-2014" target="_blank"><img src="https://img.shields.io/badge/Web of Science-gray.svg?&style=for-the-badge" height="25"</a>
-</p>
+## ⭐ GitHub Stats
+
+![guilhermeoq's Stats](https://github-readme-stats.vercel.app/api?username=guilhermeoq&theme=radical&show_icons=true&hide_border=true&count_private=true) ![guilhermeoq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermeoq&theme=radical&hide_border=true) ![guilhermeoq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoq&theme=radical&show_icons=true&hide_border=true&layout=compact)
