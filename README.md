@@ -41,14 +41,6 @@ I'm currently working at Court of Justice of the State of Tocantins, Palmas/TO, 
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/guilhermeoq/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeoq&theme=radical&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/guilhermeoq/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeoq&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
-<br><br>
-<a href="https://github.com/guilhermeoq/">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeoq&theme=radical" />
-</a>
-
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeoq&theme=radical&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeoq&theme=radical&count_private=true&show_icons=true" />
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeoq&theme=radical" />
