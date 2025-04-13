@@ -23,6 +23,5 @@
 
 ## 📄 Published Work
 <p align="left">
-<a href="https://www.scopus.com/authid/detail.uri?authorId=55915654200" target="_blank"><img src="https://img.shields.io/badge/Scopus-orange.svg?&style=for-the-badge&logo=scopus&logoColor=white" height="25"</a> 
-<a href="http://www.webofscience.com/wos/author/record/F-5354-2014" target="_blank"><img src="https://img.shields.io/badge/Web of Science-gray.svg?&style=for-the-badge" height="25"</a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=55915654200" target="_blank"><img src="https://img.shields.io/badge/Scopus-orange.svg?&style=for-the-badge&logo=scopus&logoColor=white" height="25"</a>  <a href="http://www.webofscience.com/wos/author/record/F-5354-2014" target="_blank"><img src="https://img.shields.io/badge/Web of Science-gray.svg?&style=for-the-badge" height="25"</a>
 </p>
