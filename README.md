@@ -1,7 +1,6 @@
 ## Hey! 👋
 
 I'm BSc in Computer Science, MBA in Big Data and AWS Certified Solutions Architect. I've experience in infrastructure architecture, cloud architecture, networking and service management (ITIL 4).
-I'm currently working at Court of Justice of the State of Tocantins, Palmas/TO, Brazil, focusing on networking design and operations.
 
 ## 📄 Published Work
 <p align="left">
