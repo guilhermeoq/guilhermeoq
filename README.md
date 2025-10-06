@@ -31,7 +31,7 @@ I'm BSc in Computer Science, MBA in Big Data and AWS Certified Solutions Archite
 ## 🧩 Certs
 
 <a href="https://www.credly.com/badges/83b602ca-7c95-4669-8dfe-9e8eeb8b7d3c/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS Certified Solutions Architect" style="width:4em"></a> 
-<a href="https://www.credly.com/badges/38905f45-0455-4866-9479-dc41209d00ca/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" title="AWS Educate Getting Started with Networking" style="width:4em"></a> 
+<a href="https://www.credly.com/badges/38905f45-0455-4866-9479-dc41209d00ca/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" title="AWS Educate Getting Started with Networking" style="width:4em"></a> 
 <a href="https://www.credly.com/badges/212c2ac1-d1f2-405b-a9c6-80f9efc72b39/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" title="AWS Educate Getting Started with Compute" style="width:4em"></a>
 <a href="https://www.credly.com/badges/e04eda0d-7c0a-411a-8959-66d58385bcb3/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" title="Cisco Network Security" style="width:3.5em"></a> 
 <a href="https://www.credly.com/badges/00c0eae1-7fe7-4046-96fe-0bcc4b2c2c86/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" title="Cisco Cybersecurity Essentials" style="width:3.5em"></a>
